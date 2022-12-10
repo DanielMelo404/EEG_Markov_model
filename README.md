@@ -7,5 +7,4 @@ PCA  in PCA
 
 Here is the result of clustering subjects:
 
-![image](https://user-images.githubusercontent.com/37639887/206823016-6f16d19a-1c17-4257-851a-312f927f0d8d.png)
-
+![image](https://user-images.githubusercontent.com/37639887/206824542-f0a9fb2e-4189-4162-9836-2b17b4670425.png)
